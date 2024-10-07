@@ -1,6 +1,6 @@
 # LITA_Class_Project
 
-### PROJECT TITLE: Data Analysis Process
+### PROJECT TITLE: DATA ANALYSIS PROCESS
 
 [PROJECT OVERVIEW](#project-overview)
 
