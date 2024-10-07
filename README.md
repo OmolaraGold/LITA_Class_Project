@@ -71,6 +71,9 @@ This process involves the following;
 ### DATA VISUALIZATION
 This is where how showcase my analysis with images and charts.
 
-   
+![image](https://github.com/user-attachments/assets/3c8fdd13-391b-413a-9a85-cc017f819302)
+
+
+
 
   
