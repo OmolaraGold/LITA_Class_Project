@@ -2,6 +2,23 @@
 
 ### PROJECT TITLE: Data Analysis Process
 
+[PROJECT OVERVIEW](#project-overview)
+
+[DATA SOURCES](#data-sources)
+
+[DATA ANALYSIS PROCESS](#data-analysis-process)
+
+[DATA ANALYSIS TOOLS](#data-analysis-tools)
+
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA VISUALIZATION](#data-visualization)
+
+
 ### PROJECT OVERVIEW
 ---
 Data analysis involves inspecting,cleansing,transforming and modelling data to discover useful information,draw conclusions and support decision making. By analysising the data received we seek to gather enough insight to make reasonable decisions based on actual data which then enable us to tell compelling stories around our data.
@@ -19,7 +36,7 @@ This process involves the following;
    4.  Analyzing Data
    5.  Data Visualiazation and Communication
 
-### DATA ANAYSIS TOOLS 
+### DATA ANALYSIS TOOLS 
 ---
 - Microsoft Excel [DOWNLOAD HERE](https://www.microsoft.com)
      1.  For Data Cleaning
@@ -78,4 +95,3 @@ This is where I showcase my analysis with images and charts.
 ![image](https://github.com/user-attachments/assets/33a5fe55-bce6-4030-9ff8-4a337ccbbe6a)
 
 
-  
