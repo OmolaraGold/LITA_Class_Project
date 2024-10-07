@@ -9,10 +9,10 @@ Data analysis involves inspecting,cleansing,transforming and modelling data to d
 The source of this data set used is from an open source platform provided to me as part of the course.
 
 ### DATA ANAYSIS TOOLS 
-- Microsoft Excel
+- Microsoft Excel [DOWNLOAD HERE](https://www.microsoft.com)
      1.  For Data Cleaning
      2.  For Data Analysing
      3.  For Data Visualisation
 - SQL - Structured Query Language for Data Quering
-- PowerBI for Data Visualisation
+- PowerBI for Data Visualisation [DOWNLOAD HERE](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - GitHub for portfolio building 
