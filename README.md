@@ -8,4 +8,5 @@ Data analysis involves inspecting,cleansing,transforming and modelling data to d
 ### DATA SOURCES
 The source of this data set used is from an open source platform provided to me as part of the course.
 
-### 
+### DATA ANAYSIS TOOLS 
+- Microsoft Excel
