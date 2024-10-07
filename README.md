@@ -29,21 +29,22 @@ This process involves the following;
 - PowerBI for Data Visualisation [DOWNLOAD HERE](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - GitHub for portfolio building  [DOWNLOAD HERE](https://desktop.github.com/download/)
 
-  ### DATA CLEANING AND PREPARATIONS
-  ---
+ ### DATA CLEANING AND PREPARATIONS
+ ---
   Data cleaning and preparations involve the following actions;
      1.  Data loading and inspection
      2.  Handling missing variables
      3.  Data cleaning and formatting
-
-  ### EXPLORATORY DATA ANALYSIS
-  ---
+     
+### EXPLORATORY DATA ANALYSIS
+---
   This involves the exploration of the data to answer answer some questions such as;
     - What is the overall sales?
     - What branch of the company is selling the most?
     - Which products sells the most?
-
-  ### DATA ANALYSIS
+    
+### DATA ANALYSIS
+---
   This is where I learnt how to write and run some basic functions used during analysis such as;
     - COUNT
     - COUNTIF
