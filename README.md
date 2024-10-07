@@ -59,10 +59,10 @@ This process involves the following;
     WHERE CONDITION = TRUE
     ```
 
-  ```
+  ``` SQL
   SELECT * FROM EMPLOYEE
   UPDATE EMPLOYEE
-  SET FIRSTNAME = AUSTIN
+  SET FIRSTNAME = 'AUSTIN'
   WHERE STAFFID = 'AB212'
   ```
 
