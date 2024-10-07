@@ -10,3 +10,9 @@ The source of this data set used is from an open source platform provided to me 
 
 ### DATA ANAYSIS TOOLS 
 - Microsoft Excel
+     1.  For Data Cleaning
+     2.  For Data Analysing
+     3.  For Data Visualisation
+- SQL - Structured Query Language for Data Quering
+- PowerBI for Data Visualisation
+- GitHub for portfolio building 
