@@ -11,11 +11,13 @@ Data analysis involves inspecting,cleansing,transforming and modelling data to d
 The source of this data set used is from an open source platform provided to me as part of the course.
 
 ### DATA ANALYSIS PROCESS
+---
 This process involves the following;
-     1.   Identifying and Questioning
-     2.   Data Collection and Gathering
-     
-
+   1.  Identifying and Questioning
+   2.  Data Collection and Gathering
+   3.  Data Cleaning and Preparation
+   4.  Analyzing Data
+   5.  Data Visualiazation and Communication
 
 ### DATA ANAYSIS TOOLS 
 ---
@@ -40,6 +42,18 @@ This process involves the following;
     - What is the overall sales?
     - What branch of the company is selling the most?
     - Which products sells the most?
+
+  ### DATA ANALYSIS
+  This is where I learnt how to write and run some basic functions used during analysis such as;
+    - COUNT
+    - COUNTIF
+    - MAX
+    - MAXIF
+    - SUM
+    - SUMIF
+    - VLOOKUP
+  This is where I also learnt how to write some basic line of codes and queries such as;
+
 
   
 
