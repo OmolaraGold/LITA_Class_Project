@@ -55,6 +55,7 @@ This process involves the following;
     - VLOOKUP
       
   This is where I also learnt how to write some basic line of codes and queries such as;
+  
     ``` SQL
     SELECT * FROM TABLE
     WHERE CONDITION = TRUE
@@ -67,6 +68,8 @@ This process involves the following;
   WHERE STAFFID = 'AB212'
   ```
 
+### DATA VISUALIZATION
+This is where how showcase my analysis with images and charts.
  
 
   
