@@ -56,10 +56,10 @@ This process involves the following;
       
   This is where I also learnt how to write some basic line of codes and queries such as;
   
-    ``` SQL
-    SELECT * FROM TABLE
-    WHERE CONDITION = TRUE
-    ```
+  ``` SQL
+  SELECT * FROM TABLE
+  WHERE CONDITION = TRUE
+ ```
 
   ``` SQL
   SELECT * FROM EMPLOYEE
@@ -70,6 +70,7 @@ This process involves the following;
 
 ### DATA VISUALIZATION
 This is where how showcase my analysis with images and charts.
- 
+
+   
 
   
