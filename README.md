@@ -52,10 +52,19 @@ This process involves the following;
     - SUM
     - SUMIF
     - VLOOKUP
+      
   This is where I also learnt how to write some basic line of codes and queries such as;
+    ``` SQL
+    SELECT * FROM TABLE
+    WHERE CONDITION = TRUE
+    ```
 
-
-  
+  ```
+  SELECT * FROM EMPLOYEE
+  UPDATE EMPLOYEE
+  SET FIRSTNAME = AUSTIN
+  WHERE STAFFID = 'AB212'
+  ```
 
  
 
