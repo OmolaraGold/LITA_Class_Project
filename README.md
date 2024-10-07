@@ -74,6 +74,7 @@ This is where how showcase my analysis with images and charts.
 ![image](https://github.com/user-attachments/assets/3c8fdd13-391b-413a-9a85-cc017f819302)
 
 
+![image](https://github.com/user-attachments/assets/33a5fe55-bce6-4030-9ff8-4a337ccbbe6a)
 
 
   
